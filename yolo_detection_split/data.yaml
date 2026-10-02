@@ -1,0 +1,11 @@
+path: /Users/jamalhamid/Desktop/VisionModel/yolo_detection_split
+train: images/train
+val: images/val
+
+names:
+  0: ball
+  1: robot
+  2: goalpost
+  3: L-Intersection
+  4: T-Intersection
+  5: X-Intersection

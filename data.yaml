@@ -1,0 +1,8 @@
+path: /absolute/path/to/dataset # dataset root dir
+train: images/train # train images (relative to 'path')
+val: images/val # validation images (relative to 'path')
+
+# Classes
+names:
+    0: class_name_1
+    1: class_name_2

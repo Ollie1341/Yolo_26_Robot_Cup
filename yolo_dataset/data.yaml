@@ -1,0 +1,6 @@
+path: /Users/jamalhamid/Desktop/VisionModel/yolo_dataset
+train: images/train
+val: images/train
+
+names:
+  0: object
