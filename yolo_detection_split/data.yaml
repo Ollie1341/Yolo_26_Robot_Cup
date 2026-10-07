@@ -1,4 +1,4 @@
-path: /Users/jamalhamid/Desktop/VisionModel/yolo_detection_split
+path: /home/nubots/jamal/Vision/yolo_detection_split
 train: images/train
 val: images/val
 
